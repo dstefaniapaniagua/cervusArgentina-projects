@@ -1,4 +1,4 @@
-## 🦌 Cervus Argentina Project - Tiendas E-Commerce en WordPress
+## 🦌 Cervus Argentina Web Site Project - Tiendas E-Commerce en WordPress
 Cervus Argentina fue un estudio creativo multidisciplinario fundado en 2022 con el objetivo de diseñar y desarrollar sitios web personalizados para emprendimientos, pymes y marcas que buscaban mejorar su presencia digital. Nos especializamos en tiendas online con WordPress + Elementor y WooCommerce, ofreciendo soluciones escalables, intuitivas y centradas en la experiencia del usuario.
 
 
