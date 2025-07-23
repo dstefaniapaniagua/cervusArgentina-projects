@@ -15,6 +15,9 @@ Asistencia a clientes para el uso del panel administrativo
 
 Planificación de paquetes de servicios y cotizaciones
 
+## Landing del Proyecto - Index
+![Uploading cervus Argentina- index.png…]()
+
 
 ## 🚀 Objetivos del Proyecto
 Crear tiendas online personalizadas que conviertan y escalen.
@@ -62,6 +65,12 @@ El emprendimiento no continuó su operación por motivos ajenos a lo técnico o 
 
 
 ## Algunos sitios web realizados:
+<img width="1903" height="5453" alt="unionesHiloRojo" src="https://github.com/user-attachments/assets/c6758db2-f7c7-4aa8-80b4-a15953ad5468" />
+<img width="1903" height="1146" alt="cantanteArgentino" src="https://github.com/user-attachments/assets/a9036020-7ab2-4c6d-b403-e6f335a8ba3f" />
+<img width="1903" height="2236" alt="ilmiopassaporto" src="https://github.com/user-attachments/assets/92158200-570e-4024-89a4-eacc153c5d0a" />
 ![affluence-aircrafts-mockup-cover-main](https://user-images.githubusercontent.com/83841663/165649667-4d0e682b-38e2-489d-bd89-7db619cc7fd1.png)
 ![ipsolution-schweiz-mockup-cover](https://user-images.githubusercontent.com/83841663/165649691-22179adc-d577-4f5a-93cd-79c55e3a51f2.png)
 ![main-cover-morandi](https://user-images.githubusercontent.com/83841663/165649695-12ebf510-08b9-4b5c-984a-d888de812998.png)
+
+
+
